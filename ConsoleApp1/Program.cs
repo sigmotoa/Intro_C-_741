@@ -26,5 +26,13 @@ Console.WriteLine(2024-nacimiento+" años es lo que tienes ");
  * String
  *
  *
+ * Ejercicios
+ *
+ * Sumar 2 numeros
+ * Sumar 3 numeros
+ * Multiplicar 2 numeros
+ * Multiplicar 3 numeros
+ * Mostrar la edad con la fecha de nacimiento
+ * Mostrar cuantos días faltan para cumplir años
  * 
 */
