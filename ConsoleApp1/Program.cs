@@ -96,6 +96,8 @@ switch (edad)
  * Validador multiplo de 7
  * Mostrar los dias de nacido
  *
+ * Piedra papel tijera
+ *
  *
  * Switch
  * Recibir fecha nacimiento entregar signo zodiaco
