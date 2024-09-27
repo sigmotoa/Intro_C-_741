@@ -12,3 +12,4 @@
 /Users/sigmotoa/Documents/UD/2024_3/basica_741/codes/console1/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
 /Users/sigmotoa/Documents/UD/2024_3/basica_741/codes/console1/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
 /Users/sigmotoa/Documents/UD/2024_3/basica_741/codes/console1/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/Users/sigmotoa/Documents/UD/2024_3/basica_741/codes/console1/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
